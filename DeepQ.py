@@ -1,5 +1,3 @@
-#Deep Q learning attempt- using a neural network as the q function
-#Bellman equation:  new q = (old q) + (learning rate) * ( (reward) + (discount factor) * (future reward estimate) - (old q))
 import NeuralNetworkV6 as nn
 
 import random as r
